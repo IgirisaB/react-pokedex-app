@@ -66,3 +66,22 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/*new CSS for types */
+.type-icon{
+  height : 30px; /* Adjust size as needed */
+
+}
+
+
+/* New CSS for stats display */
+
+
+.stat-icon {
+  height: 20px; /* Adjust size as needed */
+}
+
+.base-value {
+  font-size: 1.2em; /* Adjust size as needed */
+  font-weight: bold;
+}
